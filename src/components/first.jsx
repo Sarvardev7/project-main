@@ -14,7 +14,7 @@ const First = () => {
             </div>
             <div className="">
                 <p className='font-bold text-black'>Check if We Deliver</p>
-                <p className='font-bold text-black'>Search</p>
+                <p className='font-bold text-black'>Search  </p>
                 <p className='font-bold text-black'> Account</p>
             </div>
          </div>
